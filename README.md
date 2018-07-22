@@ -1,0 +1,1 @@
+# docker-template-rails_mysql
